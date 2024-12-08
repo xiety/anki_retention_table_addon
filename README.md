@@ -1,1 +1,3 @@
-# anki_retention_table_addon
+# Anki retention table addon
+
+![Screenshot](docs/Screenshot_1.png)
